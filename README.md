@@ -32,13 +32,15 @@ Here are some ideas to get you started:
 
 <a href = "https://www.linkedin.com/in/pankaj-pandey-23a514125"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "mailto:pandeypankaj219@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
+<a href = "https://www.instagram.com/pandeypankaj328"><img src="<img src="https://img.icons8.com/fluency/64/000000/instagram-new.png"/>"/></a>
+ 
 
 </p>
 
 ## 🚀 Languages and Tools:
 
 <p align="left">
-    <a hred="https://docs.oracle.com/en/java/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png"/> </a>
+    <a href="https://docs.oracle.com/en/java/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png"/> </a>
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
@@ -46,4 +48,6 @@ Here are some ideas to get you started:
     <a style="padding-right:8px;" href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
     <a href="https://spring.io/guides/gs/sts/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a>
+    <a href="https://dev.mysql.com/doc/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/></a>
+    <a href="https://www.eclipse.org/documentation/" target="_blank"> <img src="https://img.icons8.com/nolan/64/java-eclipse.png"/> </a>
 </p>
