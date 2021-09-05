@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center" style="font-family: fantasy"> Pankaj Pandey </h1>
+<h1 align="center" style="font-family: fantasy">&raquo; Pankaj Pandey &laquo;</h1>
 
 ## Hello World <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
