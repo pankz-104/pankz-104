@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center" style="font-family : Brush Script MT (cursive)">👉 Pankaj Pandey 👈</h1>
+<h1 align="center" style="font-family : Bradley Hand, cursive">👉 Pankaj Pandey 👈</h1>
 <!-- font-family: fantasy -->
-## Hello World <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+⏳ Hello World <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 - 🌱 Improving my skills in Data Structures and Algorithms.
  
