@@ -21,8 +21,6 @@ Here are some ideas to get you started:
 
 - 🌱 Improving my skills in Data Structures and Algorithms.
  
-- 💬 Java and Python.
- 
 <!-- - 👯 I’m looking to collaborate on OpenSource Projects. -->
 
 - 📫 Reach me at : pandeypankaj219@gmail.com
