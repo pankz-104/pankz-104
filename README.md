@@ -23,7 +23,7 @@ Here are some ideas to get you started:
  
 <!-- - 👯 I’m looking to collaborate on OpenSource Projects. -->
 
-- 📫 Reach me at : pandeypankaj219@gmail.com
+<!-- - 📫 Reach me at : pandeypankaj219@gmail.com --!>
 
 ## Let's Connect :
 <p align="left">
