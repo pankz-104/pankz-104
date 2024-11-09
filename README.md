@@ -1,48 +1,50 @@
-### 🤨😑
-
-<!--
-**pankz-104/pankz-104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <h1 align="center" style="font-family : bradley hand">👉 Pankaj Pandey 👈</h1>
-<!-- font-family: fantasy -->
-⏳ Hello World <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<p align="center">⏳ Hello World <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></p>
 
-- 🌱 Improving my skills in Data Structures and Algorithms.
- 
+- 🌱 Enhancing my expertise in Data Structures and Algorithms.
+
+- 🛠 Data Engineer with a strong background in Data Modeling and ETL processes. Skilled in designing and developing near real-time data systems using Spark Streaming, ensuring seamless data processing and integration.
+
+- 🔧 Experienced in leveraging advanced data engineering concepts to build and optimize data pipelines. Proficient in managing data workflows, ensuring data quality, and enhancing system performance for large-scale data operations.
+
 <!-- - 👯 I’m looking to collaborate on OpenSource Projects. -->
 
-<!-- - 📫 Reach me at : pandeypankaj219@gmail.com --!>
+<!-- - 📫 Reach me at : pandeypankaj219@gmail.com -->
 
-## Let's Connect :
+## Let's Connect:
+
 <p align="left">
-
-<a href = "https://www.linkedin.com/in/pankaj-pandey-23a514125"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "mailto:pandeypankaj219@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
-<a href = "https://www.instagram.com/pandeypankaj328"><img src="https://img.icons8.com/fluency/64/000000/instagram-new.png"/></a>
- 
-
+  <a href="https://www.linkedin.com/in/pankaj-pandey-23a514125">
+    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" />
+  </a>
+  <a href="mailto:pandeypankaj219@gmail.com">
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" />
+  </a>
+  <a href="https://www.instagram.com/pandeypankaj328">
+    <img src="https://img.icons8.com/fluency/64/000000/instagram-new.png" alt="Instagram" />
+  </a>
 </p>
 
-## 🚀 Languages and Tools:
+## 🚀 Tech Stacks:
 
-<p align="left">
-    <a href="https://docs.oracle.com/en/java/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png"/> </a>
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
-    <a style="padding-right:8px;" href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png"/> </a>
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
-    <a href="https://www.eclipse.org/documentation/" target="_blank"> <img src="https://img.icons8.com/nolan/64/java-eclipse.png"/> </a>
+- ![Python](https://img.icons8.com/color/48/000000/python.png) **Python**
+
+- ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) **Java**
+
+- ![PySpark](https://img.icons8.com/color/48/000000/apache-spark.png) **PySpark**
+
+- ![SQL](https://img.icons8.com/color/48/000000/sql.png) **SQL, KQL**
+
+- ![Power BI](https://img.icons8.com/color/48/000000/power-bi.png) **Power BI, DAX**
+
+- ![Django](https://img.icons8.com/color/48/000000/django.png) **Django**
+
+- ![Azure](https://img.icons8.com/color/48/000000/azure-1.png) **Azure (Data Factory, Databricks, Synapse, Data Explorer)**
+
+## 💻 LeetCode Profile:
+
+<p align="center">
+  <a href="https://leetcode.com/u/pandeypankaj219/">
+    <img src="https://cdn.iconscout.com/icon/free/png-256/leetcode-282167.png" alt="LeetCode Profile" width="200" onError="this.src='https://img.icons8.com/color/48/000000/code.png';"/>
+  </a>
 </p>
